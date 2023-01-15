@@ -23,11 +23,16 @@ A software engineer passionate about Data Science :bar_chart:.
 <a href = 'https://www.github.com/sbaglieri13'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <a href = 'https://www.linkedin.com/in/salvatore-baglieri'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
+<br>
+
 ## GitHub Stats
 
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=sbaglieri13&show_icons=True&theme=light" alt="sbaglieri13' Github Stats"/></a>
-
+</p>
+<p align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=sbaglieri13"/>
+</p>
 
 
