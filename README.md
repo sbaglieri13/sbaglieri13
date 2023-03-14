@@ -35,11 +35,20 @@ A software engineer passionate about Data Science :bar_chart:
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sbaglieri13&include_all_commits=true&show_icons=True&theme=light" alt="sbaglieri13'             Github Stats"/>
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api?username=sbaglieri13&include_all_commits=true&show_icons=True&theme=light&title_color=384B59"          alt="sbaglieri13' Github Stats"/>
+  </a>
+  <a href="">
+    <img src="https://streak-stats.demolab.com/?user=sbaglieri13&theme=light&currStreakLabel=384B59&ring=384B59" alt="sbaglieri13'"/>
   </a>
 </p>
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=sbaglieri13"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sbaglieri13&theme=default" align="center" />
+</p>
+<p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=sbaglieri13&style=for-the-badge"/>
 </p>
 
+<footer>
+	  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+</footer>
