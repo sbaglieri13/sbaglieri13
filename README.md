@@ -36,8 +36,8 @@ A software engineer passionate about Data Science :bar_chart:
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=sbaglieri13&include_all_commits=true&show_icons=True&theme=light&title_color=384B59"
-    	alt="sbaglieri13 Github Stats" width="422"/>
-   <img src="https://streak-stats.demolab.com/?user=sbaglieri13&theme=light&currStreakLabel=384B59&ring=384B59" alt="sbaglieri13" width="449.5"/>
+    	alt="sbaglieri13 Github Stats"/>
+   <img src="https://streak-stats.demolab.com/?user=sbaglieri13&theme=light&currStreakLabel=384B59&ring=384B59" alt="sbaglieri13"/>
 </p>
 
 <p align="center">
