@@ -11,8 +11,11 @@ A software engineer passionate about Data Science :bar_chart:
 <h3> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%> </h3>
 <a href = 'https://www.github.com/sbaglieri13'> <img width ='32px' src ='https://skillicons.dev/icons?i=python&theme=light'> </a> 
 <a href = 'https://www.github.com/sbaglieri13'><img width ='32px' src ='https://skillicons.dev/icons?i=java&theme=light'> </a>
+<a href = 'https://www.github.com/sbaglieri13'><img width ='32px' src ='https://skillicons.dev/icons?i=r&theme=light'> </a>
 <a href = 'https://www.github.com/sbaglieri13'><img width ='32px' src ='https://skillicons.dev/icons?i=django&theme=light'> </a>
 <a href = 'https://www.github.com/sbaglieri13'><img width ='32px' src ='https://skillicons.dev/icons?i=git&theme=light'> </a>
+<a href = 'https://www.github.com/sbaglieri13'><img width ='32px' src ='https://skillicons.dev/icons?i=postgresql&theme=light'> </a>
+<a href = 'https://www.github.com/sbaglieri13'><img width ='32px' src ='https://skillicons.dev/icons?i=postman&theme=light'> </a>
 <a href = 'https://www.github.com/sbaglieri13'><img width ='32px' src ='https://skillicons.dev/icons?i=bootstrap&theme=light'> </a>
 <a href = 'https://www.github.com/sbaglieri13'><img width ='32px' src ='https://skillicons.dev/icons?i=html&theme=light'> </a>
 <a href = 'https://www.github.com/sbaglieri13'><img width ='32px' src ='https://skillicons.dev/icons?i=css&theme=light'> </a>
