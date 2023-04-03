@@ -30,8 +30,11 @@ A software engineer passionate about Data Science :bar_chart:
   <summary>
     <h3>Top Repositories ⚡</h3>
   </summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/sbaglieri13/TextAnalysis">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sbaglieri13&repo=TextAnalysis&theme=light" />
+  </a>
+  <a href="https://github.com/sbaglieri13/IBM-Data-Science-SpaceX-Final-Project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sbaglieri13&repo=IBM-Data-Science-SpaceX-Final-Project&theme=light" />
   </a>
 </details>
 
