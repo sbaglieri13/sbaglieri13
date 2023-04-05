@@ -33,8 +33,8 @@ A software engineer passionate about Data Science :bar_chart:
   <a href="https://github.com/sbaglieri13/TextAnalysis">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sbaglieri13&repo=TextAnalysis&theme=light" />
   </a>
-  <a href="https://github.com/sbaglieri13/IBM-Data-Science-SpaceX-Final-Project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sbaglieri13&repo=IBM-Data-Science-SpaceX-Final-Project&theme=light" />
+  <a href="https://github.com/sbaglieri13/Space-X-Falcon-9-Landing-Analysis">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sbaglieri13&repo=Space-X-Falcon-9-Landing-Analysis&theme=light" />
   </a>
 </details>
 
