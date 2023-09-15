@@ -2,9 +2,9 @@
 
 A software engineer passionate about Data Science :bar_chart:
 
+👨‍💼 Currently working as **Data Analyst** @Gucci <br>
 🌱 I’m currently learning **Big data and distributed systems** - M.Sc. degree at University of Florence <br>
 🎓 Graduated from University of Florence - Computer Engineering <br>
-👨‍💼 Currently working as Data Analyst @Gucci <br>
 :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science** <br>
 📫 How to reach me: salvatorebaglieri13@gmail.com
 
@@ -12,6 +12,7 @@ A software engineer passionate about Data Science :bar_chart:
 <a href = 'https://www.github.com/sbaglieri13'> <img width ='32px' src ='https://skillicons.dev/icons?i=python&theme=light'> </a> 
 <a href = 'https://www.github.com/sbaglieri13'><img width ='32px' src ='https://skillicons.dev/icons?i=java&theme=light'> </a>
 <a href = 'https://www.github.com/sbaglieri13'><img width ='32px' src ='https://skillicons.dev/icons?i=r&theme=light'> </a>
+<a href = 'https://www.github.com/sbaglieri13'><img width ='32px' src ='https://skillicons.dev/icons?i=gcp&theme=light'> </a>
 <a href = 'https://www.github.com/sbaglieri13'><img width ='32px' src ='https://skillicons.dev/icons?i=django&theme=light'> </a>
 <a href = 'https://www.github.com/sbaglieri13'><img width ='32px' src ='https://skillicons.dev/icons?i=git&theme=light'> </a>
 <a href = 'https://www.github.com/sbaglieri13'><img width ='32px' src ='https://skillicons.dev/icons?i=postgresql&theme=light'> </a>
