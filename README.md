@@ -1,6 +1,4 @@
-### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 2%> I'm Salvatore Baglieri,
-
-A software engineer passionate about Data Science :bar_chart:
+### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 2%> I'm Salvatore,
 
 👨‍💼 Currently working as **Data Analyst** @Gucci <br>
 🌱 I’m currently learning **Big data and distributed systems** - M.Sc. degree at University of Florence <br>
@@ -23,7 +21,6 @@ A software engineer passionate about Data Science :bar_chart:
 <a href = 'https://www.github.com/sbaglieri13'><img width ='32px' src ='https://skillicons.dev/icons?i=linux&theme=light'> </a>
 
 <h3> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="6%"> </h3>
-<a href = 'https://www.github.com/sbaglieri13'> <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=github&theme=light"/></a> 
 <a href = 'https://www.linkedin.com/in/salvatore-baglieri'> <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a> 
 <a href = 'https://stackoverflow.com/users/14792812/sbaglieri13'> <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=stackoverflow&theme=light"/></a> 
 
