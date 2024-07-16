@@ -6,7 +6,7 @@
   👨‍💼 Currently working as <strong>Data Analyst</strong> @Gucci <br>
   🌱 Learning <strong>Big Data and Distributed Systems</strong> - M.Sc. at University of Florence <br>
   🎓 Graduated in Computer Engineering from University of Florence <br>
-  💡 Interested in <strong>Data Science, Machine Learning, Big Data and Cloud</strong> <br>
+  💡 Interested in <strong>Data Science, AI and Big Data</strong> <br>
   📫 Reach me at: salvatorebaglieri13@gmail.com
 </p>
 
@@ -19,7 +19,6 @@
 <p align="center">
   <a href='https://www.github.com/sbaglieri13'><img src='https://skillicons.dev/icons?i=python&theme=light' width='40px'></a>
   <a href='https://www.github.com/sbaglieri13'><img src='https://skillicons.dev/icons?i=java&theme=light' width='40px'></a>
-  <a href='https://www.github.com/sbaglieri13'><img src='https://skillicons.dev/icons?i=r&theme=light' width='40px'></a>
   <a href='https://www.github.com/sbaglieri13'><img src='https://skillicons.dev/icons?i=django&theme=light' width='40px'></a>
   <a href='https://www.github.com/sbaglieri13'><img src='https://skillicons.dev/icons?i=git&theme=light' width='40px'></a>
   <a href='https://www.github.com/sbaglieri13'><img src='https://skillicons.dev/icons?i=postgresql&theme=light' width='40px'></a>
