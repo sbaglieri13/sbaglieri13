@@ -6,7 +6,7 @@
   👨‍💼 Currently working as <strong>Data Analyst</strong> @Gucci <br>
   🌱 Learning <strong>Big Data and Distributed Systems</strong> - M.Sc. at University of Florence <br>
   🎓 Graduated in Computer Engineering from University of Florence <br>
-  💡 Interested in <strong>Data Science, AI and Big Data</strong> <br>
+  💡 Interested in <strong>Data Science, AI</strong> and <strong>Big Data</strong> <br>
   📫 Reach me at: salvatorebaglieri13@gmail.com
 </p>
 
