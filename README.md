@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  👨‍💼 Currently working as <strong>Data Analyst & Engineer</strong><br>
+  👨‍💼 Currently working as <strong>Data Engineer & Analyst</strong><br>
   🌱 Learning <strong>Computer Engineering</strong> - M.Sc. at University of Florence <br>
   🎓 Graduated in Computer Engineering from University of Florence <br>
   💡 Interested in <strong>Data Science, AI</strong> and <strong>Big Data</strong> <br>
