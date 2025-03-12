@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=002b62&height=20&section=header"/>
   <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   <h3 align="center">Data Engineer & Analyst | MSc Computer Engineering</h3>
   <p align="center">
