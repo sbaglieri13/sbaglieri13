@@ -71,7 +71,7 @@
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=sbaglieri13&include_all_commits=true&show_icons=True&theme=light&title_color=384B59" alt="sbaglieri13 GitHub Stats" height="150px" />
-   <img sr<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbaglieri13&layout=compact&theme=retro" height="150px" />
+   <img sr<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbaglieri13&layout=compact&hide=CMake,M4,Shell,Makefile" height="150px" />
 </p>
 
 <p align="center">
@@ -85,3 +85,4 @@
 <footer>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=002b62&height=120&section=footer"/>
 </footer>
+
