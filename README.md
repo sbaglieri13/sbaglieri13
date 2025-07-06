@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-  <h3 align="center">Data Engineer & Analyst | MSc Computer Engineering</h3>
+  <h3 align="center">Data Engineer | MSc Computer Engineering (Big Data)</h3>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600px">
   </p>
@@ -11,8 +11,8 @@
   <h2 align="center">🚀 About Me</h2>
 </p>
 <p align="center">
-  👨‍💼 Currently working as <strong>Data Engineer & Analyst</strong><br>
-  🎓 MSc in <strong>Computer Engineering</strong> @ University of Florence<br>
+  👨‍💼 Currently working as <strong>Data Engineer</strong><br>
+  🎓 MSc in <strong>Computer Engineering</strong> @University of Florence<br>
     💡 Passionate about <strong>Data Science, AI & Big Data</strong><br>
   📫 Reach me at: salvatorebaglieri13@gmail.com
 </p>
