@@ -26,6 +26,7 @@
 <p align="center">
   <a href='https://www.github.com/sbaglieri13'><img src='https://skills-icons.vercel.app/api/icons?i=python' width='40px'></a>
   <a href='https://www.github.com/sbaglieri13'><img src='https://skills-icons.vercel.app/api/icons?i=java' width='40px'></a>
+  <a href='https://www.github.com/sbaglieri13'><img src='https://skills-icons.vercel.app/api/icons?i=kafka' width='40px'></a>
   <a href='https://www.github.com/sbaglieri13'><img src='https://skills-icons.vercel.app/api/icons?i=dbt' width='40px'></a>
   <a href='https://www.github.com/sbaglieri13'><img src='https://skills-icons.vercel.app/api/icons?i=airflow' width='40px'></a>
   <a href='https://www.github.com/sbaglieri13'><img src='https://skills-icons.vercel.app/api/icons?i=django' width='40px'></a>
