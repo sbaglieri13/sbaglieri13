@@ -1,86 +1,23 @@
-<p align="center">
-  <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-  <h3 align="center">Data Engineer | MSc Computer Engineering (Big Data)</h3>
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600px">
-  </p>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,50:1e3c72,100:2a5298&height=190&section=header&text=Hi%20there!%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Data%20Engineer&descAlignY=57&descSize=20" width="100%" alt="Hi, I'm Salvatore - Data Engineer">
 
----
-<p align="center">
-  <h3 align="center">🚀 About Me</h3>
-</p>
-<p align="center">
-  👨‍💼 Currently working as <strong>Data Engineer</strong><br>
-  🎓 MSc in <strong>Computer Engineering</strong> @University of Florence<br>
-  📫 Reach me at: salvatorebaglieri13@gmail.com
-</p>
+### 🛠️ Skills
+<img src="https://skillicons.dev/icons?i=scala" width="40" alt="Scala"> <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python"> <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java"> <img src="assets/icons/akka.svg" width="40" alt="Akka"> <img src="https://skillicons.dev/icons?i=kafka" width="40" alt="Apache Kafka"> <img src="assets/icons/cloudera.svg" width="40" alt="Cloudera"> <img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS"> <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker"> <img src="https://skillicons.dev/icons?i=fastapi" width="40" alt="FastAPI"> <img src="https://skillicons.dev/icons?i=django" width="40" alt="Django"> <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git">
 
----
+### 📌 Projects
+- [**Kafka Performance Analysis**](https://github.com/sbaglieri13/Kafka-Performance-Analysis) · Performance analysis of a distributed Apache Kafka cluster under emulated network conditions: latency, throughput and batching experiments
+- [**Graph2SPARQL**](https://github.com/sbaglieri13/Graph2SPARQL) · GraphQL server that translates GraphQL queries into SPARQL to query any RDF store (DBpedia, Wikidata, custom datasets)
+- [**Flowdesk**](https://github.com/sbaglieri13/flowdesk) · Self-hosted Kanban board that runs in Docker and keeps your data in your own Supabase project
+- [**TextAnalysis**](https://github.com/sbaglieri13/TextAnalysis) · Sentiment and topic recognition from text and speech
 
-<p align="center">
-  <h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" align="center"> Skills</h3>
-</p>
+### 🎯 Certifications
+- <img src="https://skillicons.dev/icons?i=aws" width="18" align="top" alt="AWS">&nbsp; **AWS Certified Solutions Architect – Associate**
 
-<p align="center">
-    <img src="https://skills-icons.vercel.app/api/icons?i=python" width="45px"/>
-    <img src="https://skills-icons.vercel.app/api/icons?i=java" width="45px"/>
-    <img src="https://skills-icons.vercel.app/api/icons?i=kafka" width="45px"/>
-    <img src="https://skills-icons.vercel.app/api/icons?i=aws" width="45px"/>
-    <img src="https://skills-icons.vercel.app/api/icons?i=docker" width="45px"/>
-    <img src="https://skills-icons.vercel.app/api/icons?i=git" width="45px"/>
-  </p>
+### 🎓 Education
+- **MSc in Computer Engineering** · Specialization in Big Data and Distributed Systems · University of Florence
+- **BSc in Computer Engineering** · University of Florence
 
----
-
-<p align="center">
-  <h3 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width='40px' align="center"> Connect with me</h3>
-</p>
-
-<p align="center">
-  <a href='https://www.linkedin.com/in/salvatore-baglieri'><img src='https://skills-icons.vercel.app/api/icons?i=linkedin' width='40px'></a>
-  <a href='https://discord.com/users/629372614107987978'><img src='https://skills-icons.vercel.app/api/icons?i=discord' width='40px'></a>
-  <a href="mailto:salvatorebaglieri13@gmail.com"><img src="https://skills-icons.vercel.app/api/icons?i=gmail" width="40px"></a>
-</p>
+### 📫 Contacts
+<a href="https://www.linkedin.com/in/salvatore-baglieri"><img src="https://skills-icons.vercel.app/api/icons?i=linkedin" width="40" alt="LinkedIn"></a> <a href="mailto:salvatorebaglieri13@gmail.com"><img src="https://skills-icons.vercel.app/api/icons?i=gmail" width="40" alt="Email"></a>
 
 
-<!---
-
-<p align="center">
-  <h2 align="center">Top Repositories ⚡</h2>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sbaglieri13/TextAnalysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbaglieri13&repo=TextAnalysis&theme=light" alt="TextAnalysis Repository" height="150px" />
-  </a>
-  <a href="https://github.com/sbaglieri13/Space-X-Falcon-9-Landing-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbaglieri13&repo=Space-X-Falcon-9-Landing-Analysis&theme=light" alt="Space-X-Falcon-9-Landing-Analysis Repository" height="150px" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <h2 align="center">GitHub Stats</h2>
-</p>
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=sbaglieri13&include_all_commits=true&show_icons=True&theme=light&title_color=384B59" alt="sbaglieri13 GitHub Stats" height="150px" />
-   <img sr<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbaglieri13&layout=compact&hide=CMake,M4,Shell,Makefile" height="150px" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sbaglieri13&theme=default" alt="sbaglieri13 Profile Summary" />
-</p>
--->
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sbaglieri13&style=for-the-badge&color=002b62" alt="Profile Views" />
-</p>
-
-
-<footer>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=002b62&height=120&section=footer"/>
-</footer>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,50:1e3c72,100:2a5298&height=100&section=footer" width="100%" alt="">
